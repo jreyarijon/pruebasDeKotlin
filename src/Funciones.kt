@@ -6,6 +6,11 @@ fun main(){
     printsum(5,2)
 
     rest(2,1)
+
+    /*Aqui empieza el objeto*/
+    val empleado = MisObjetos("Pepe","Grillo",33)
+    println(MisObjetos.)
+
 }
 fun sum(a:Int,b:Int):Int{
     return a+b
